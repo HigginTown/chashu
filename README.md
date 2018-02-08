@@ -1,9 +1,12 @@
 # Chashu
 
+Bringing Chess Query Language to Python with Stockfish and Recurrent Neural Networks 
+
+
 Find queen sacrifices and other themes in chess games quickly. Annotate chess games. 
 
 
-Resources
+**Resources**:
 
 [Kings database](http://www.kingbase-chess.net/contact/)
 
